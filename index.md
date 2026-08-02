@@ -1,18 +1,18 @@
 # Blue Crush Labs
 
-Cybersecurity research, malware analysis, threat intelligence, and electronics projects.
+Cybersecurity Research • Malware Analysis • Threat Intelligence
 
-## About
+Welcome to my portfolio.
 
-Welcome to my cybersecurity portfolio.
+## Navigation
 
-## Projects
+- About
+- Resume
+- Projects
+- Blog
 
-- Malware Analysis
-- Threat Intelligence
-- Home Lab
-- Electronics
-
-## Resume
+## Featured Work
 
 Coming soon.
+
+
