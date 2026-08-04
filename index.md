@@ -1,3 +1,8 @@
+---
+layout: home
+title: ""
+---
+
 Cybersecurity Research • Malware Analysis • Threat Intelligence
 
 Welcome to my portfolio.
