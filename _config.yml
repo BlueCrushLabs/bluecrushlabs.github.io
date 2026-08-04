@@ -1,6 +1,8 @@
 # Site settings
 url: "https://github.io"
 baseurl: "" # Keep this completely empty for a user site
+title: Blue Crush Labs
+description: Welcome to BlueCrushLabs!
 
 # Build settings
 theme: minima
