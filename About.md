@@ -1,4 +1,7 @@
-# About
+---
+layout: default
+Title: About
+---
 
 Welcome to Blue Crush Labs!
 
