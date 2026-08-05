@@ -4,8 +4,10 @@ baseurl: "" # Keep this completely empty for a user site
 title: Blue Crush Labs
 description: Welcome to BlueCrushLabs!
 
+
+
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
