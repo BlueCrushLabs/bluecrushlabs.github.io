@@ -1,3 +1,4 @@
+---
 layout: default
 title: FLARE-VM
 parent: Home Lab
