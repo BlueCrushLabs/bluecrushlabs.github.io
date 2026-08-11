@@ -1,8 +1,8 @@
 ---
 
 layout: default
-title: Resources
-parent: bluecrushlabs.github.io
+title: index.io
+parent: Resources
 nav_order: 1
 ---
 
