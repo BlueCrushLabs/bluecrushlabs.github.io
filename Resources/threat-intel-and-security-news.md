@@ -2,7 +2,7 @@
 layout: default
 title: Security News
 parent: Resources
-nav_order: 3
+nav_order: 2
 ---
 # Threat Intel and Security News
 ### Stay on Top of the game and read the news every day.
