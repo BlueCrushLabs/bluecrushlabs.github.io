@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: index.io
+title: index.md
 parent: Resources
 nav_order: 1
 ---
