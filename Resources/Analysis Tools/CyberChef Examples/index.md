@@ -1,5 +1,6 @@
 ---
 layout: default
-title: CyberChef
+title: CyberChef Examples
+parent: Resources
 has_children: true
 ---
