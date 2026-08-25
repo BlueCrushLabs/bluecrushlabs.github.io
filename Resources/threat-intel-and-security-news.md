@@ -9,14 +9,30 @@ nav_order: 2
 ----------------------------------------------------------------
 
 
-[https://www.bleepingcomputer.com/](https://www.bleepingcomputer.com/)  
+<a href="https://www.bleepingcomputer.com/" target="_blank" rel="noopener noreferrer">Bleeping Computer</a><br><br>
 
-[https://www.darkreading.com/](https://www.darkreading.com)  
-[https://www.darkreading.com/threat-intelligence](https://www.darkreading.com/threat-intelligence)  
+<a href="https://www.darkreading.com/" target="_blank" rel="noopener noreferrer">Dark Reading</a>
+
+<a href="https://www.darkreading.com/threat-intelligence" target="_blank" rel="noopener noreferrer">Dark Reading Threat Intelligence</a><br><br>
+
+<a href="https://thehackernews.com/" target="_blank" rel="noopener noreferrer">The Hacker News</a><br><br>
+
+<a href="https://unit42.paloaltonetworks.com/" target="_blank" rel="noopener noreferrer">Unit 42 Palo Alto Networks</a>
 
 
-[https://thehackernews.com/](https://thehackernews.com/)  
+
+<!--
+[https://www.bleepingcomputer.com/](https://www.bleepingcomputer.com/)   
+
+[https://www.darkreading.com/](https://www.darkreading.com)
+[https://www.darkreading.com/threat-intelligence](https://www.darkreading.com/threat-intelligence)
 
 
-[https://unit42.paloaltonetworks.com/](https://unit42.paloaltonetworks.com/)
+[https://thehackernews.com/](https://thehackernews.com/)
+
+
+[https://unit42.paloaltonetworks.com/](https://unit42.paloaltonetworks.com/) 
 []()
+
+-->
+
