@@ -49,8 +49,10 @@ Automated malware analysis platform providing behavioral reports, indicators, ne
 
 ### OSINT Analysis
 
-#### <a href="https://www.maltego.com/" target="_blank" rel="noopener noreferrer">Maltego</a>
+#### <a href="https://www.spiderfoot.net/" target="_blank" rel="noopener noreferrer">SpiderFoot HX</a>
 
-#### <a href="https://www.spiderfoot.net/" target="_blank" rel="noopener noreferrer">SpiderFoot</a>
+#### <a href="https://www.shodan.io/" target="_blank" rel="noopener noreferrer">Shodan</a>
+
+#### <a href="https://search.censys.io/" target="_blank" rel="noopener noreferrer">Censys</a>
 
 #### <a href="https://github.com/laramies/theHarvester" target="_blank" rel="noopener noreferrer">theHarvester</a>
