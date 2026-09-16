@@ -1,0 +1,21 @@
+---
+layout: default
+title: Report Templates and How Guides
+parent: Resources
+nav_order: 4
+---
+
+### Report Templates and Guides
+
+Template and guides from Lenny Zeltser for documenting cybersecurity incidents, threat intelligence investigations, and malware analysis.
+
+#### <a href="https://zeltser.com/incident-response-report-template" target="_blank" rel="noopener noreferrer">A Report Template for Cybersecurity and Privacy Incident Response</a>
+
+#### <a href="https://zeltser.com/cyber-threat-intel-report-template" target="_blank" rel="noopener noreferrer">A Report Template for Cyber Threat Intelligence</a>
+
+#### <a href="https://zeltser.com/malware-analysis-report" target="_blank" rel="noopener noreferrer">A Report Template for Malware Analysis</a>
+
+
+Template and guides from Anuj Soni is a cybersecurity professional and malware analyst known for his work in malware analysis, reverse engineering, and security research.
+
+#### <a href="https://www.sans.org/blog/how-to-track-your-malware-analysis-findings" target="_blank" rel="noopener noreferrer">Anuj Soni's Malware Analysis Template</a>
