@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Report Templates and How Guides
+title: Report Templates and How to Guides
 parent: Resources
 nav_order: 4
 ---
