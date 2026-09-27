@@ -1,6 +1,6 @@
 ---
 layout: default
 title: CyberChef Examples
-parent: Analysis Tools
+parent: How to Guides
 has_children: true
 ---
